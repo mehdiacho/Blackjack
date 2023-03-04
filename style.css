@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    display: block;
+    background-image: url("Green Grass.jpg");
+    background-size: cover;
+    background-repeat: space;
+    font-family: "Arial";
+
+ }
+
+h3 {
+    color: white;
+    text-shadow: 0 0 2px black;
+}
+h1 {
+    color: orange;
+}
+button {
+    display: block;
+    margin: 10px auto;
+    width: 200px;
+    background: orange;
+    color: inherit;
+    padding: 10px 25px;
+    border-radius: 7px;
+    font-family: inherit;
+    font-size: large;
+    border: none;
+}
+#verdict {
+    color: red;
+}
